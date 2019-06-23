@@ -1,0 +1,6 @@
+owner=579015041953562655
+prefix=♥
+game=I love Kenz
+stayinchannel=true
+songinstatus=false
+token=NTkyMzY2MDE2ODc3NjkwODkx.XQ-V0w.XxdUzwyaIsZ26sTkYMfbQzIDFSY
