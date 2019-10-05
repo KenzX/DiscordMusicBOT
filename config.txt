@@ -1,6 +1,6 @@
-owner=579015041953562655
-prefix=♥
-game=I love Kenz
+owner=579159495830142977
+prefix=
+game=Kenz ❤️
 stayinchannel=true
 songinstatus=false
 token=NjEyMzQ1NzExNTU1NjQxNDk4.XZkoIQ.PILzIAH5n_-oCuHJqHz3O8qChPM
