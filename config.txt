@@ -3,4 +3,4 @@ prefix=
 game=Kenz ❤️
 stayinchannel=true
 songinstatus=false
-token=NjEyMzQ1NzExNTU1NjQxNDk4.XZkoIQ.PILzIAH5n_-oCuHJqHz3O8qChPM
+token=NjEyMzQ1NzExNTU1NjQxNDk4.XZkr3g.GvOOTYImwmCPO0adbWHF5ETwnHU
