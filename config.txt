@@ -1,4 +1,4 @@
-token=NjEyMzQ1NzExNTU1NjQxNDk4.XZkr3g.GvOOTYImwmCPO0adbWHF5ETwnHU
+token=NjMwMTkzNjUxMTU4NjE0MDE3.XZkvuw.qZStsQFh4j3YzpaALqw-tGqrr0s
 owner=579159495830142977
 prefix=
 game=Kenz ❤️
