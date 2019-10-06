@@ -1,6 +1,6 @@
-token=NjMwMTkzNjUxMTU4NjE0MDE3.XZkvuw.qZStsQFh4j3YzpaALqw-tGqrr0s
 owner=579159495830142977
 prefix=
 game=Kenz ❤️
 stayinchannel=true
 songinstatus=false
+token=NjMwMTkzNjUxMTU4NjE0MDE3.XZkvuw.qZStsQFh4j3YzpaALqw-tGqrr0s
